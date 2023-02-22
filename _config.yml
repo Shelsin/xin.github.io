@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Chawin
+first_name: Xin
 middle_name: 
-last_name: Sitawarin
-email: chawins@berkeley.edu
+last_name: Xie
+email: shelsin.ckg@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD candidate in Machine Learning Security at UC Berkeley
 footer_text: >
