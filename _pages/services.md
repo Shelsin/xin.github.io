@@ -7,8 +7,8 @@ nav_order: 5
 ---
 
 #### Internship Experiences
-- 06/2022-12/2022: **Intelligent Creation**, Infrastructure department of Douyin Vision, AI lab, Bytedance 
-- 07/2021-09/2021: **Center for Research on Intelligent Perception and Computing**, Institute of Automation, Chinese Academy of Sciences (CASIA)
+- 06/2022-02/2023: **Intelligent Creation**, Infrastructure department of Douyin Vision, AI lab, **Bytedance**
+- 07/2021-09/2021: **Center for Research on Intelligent Perception and Computing**, Institute of Automation, **Chinese Academy of Sciences (CASIA)**
 
 ---
 
