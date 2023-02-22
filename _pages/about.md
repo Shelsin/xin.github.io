@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: chawins AT berkeley DOT edu
+subtitle: Graduate Student @ Dalian university of technology
 
 profile:
   align: right
