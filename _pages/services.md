@@ -3,7 +3,7 @@ layout: page
 permalink: /service/
 title: services
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 #### Internship Experiences
@@ -14,3 +14,14 @@ nav_order: 5
 
 #### Academic Services
 - Reviewer: CVPR 2022, IJCAI 2022, CVPR 2023, MICCAI
+
+
+---
+
+#### Award
+- 10/2022: Huawei Scholarship for Postgraduate Students of Dalian university of technology
+- 10/2022: First-class Scholarship for Postgraduate Students of Dalian university of technology
+- 10/2022: Outstanding Postgraduate Students of Dalian university of technology
+- 06/2021: Second-class Scholarship for Postgraduate Students of Dalian university of technology
+- 06/2021: Outstanding Graduate of Dalian, Liaoning, China
+- 08/2019: National Second-Class Prize of the 14th NXP Cup National University Students Intelligent Car Race
