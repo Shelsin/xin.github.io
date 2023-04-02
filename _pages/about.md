@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Student @ Dalian university of technology
+subtitle: Master candidate @ Dalian university of technology
 
 profile:
   align: right
