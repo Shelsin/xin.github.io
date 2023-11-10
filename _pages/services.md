@@ -13,13 +13,13 @@ nav_order: 4
 ---
 
 #### Academic Services
-- Reviewer: CVPR 2022, IJCAI 2022, CVPR 2023, MICCAI
+- Reviewer: CVPR 2022, IJCAI 2022, MICCAI 2022, ICCV 2022, CVPR 2023, ICCV 2023, CVPR 2024
 
 
 ---
 
 #### Award
-- 10/2022: Huawei Scholarship for Postgraduate Students of Dalian university of technology
+- 10/2022: Excellent Scholarship for Postgraduate Students of Dalian university of technology
 - 10/2022: First-class Scholarship for Postgraduate Students of Dalian university of technology
 - 10/2022: Outstanding Postgraduate Students of Dalian university of technology
 - 06/2021: Second-class Scholarship for Postgraduate Students of Dalian university of technology
