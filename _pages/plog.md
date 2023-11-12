@@ -14,7 +14,6 @@ nav_order: 6
       width: 30%; /* 设置每列宽度 */
       margin: 10px; /* 设置列之间的间距 */
       border: 5px solid #f7f7f7;
-      padding: 5px;
     }
   </style>
 </head>
