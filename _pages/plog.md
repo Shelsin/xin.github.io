@@ -10,7 +10,7 @@ nav_order: 6
   <style>
     .image-container {
       display: flex;
-      justify-content: space-between; /* 在容器内部均匀分配项目 */
+      flex-direction: column; /* 将子元素垂直排列 */
       align-items: center; /* 在交叉轴上居中对齐 */
       box-sizing: border-box; /* 让边框和内边距计入宽度和高度 */
       width: 30%; /* 设置每列宽度 */
