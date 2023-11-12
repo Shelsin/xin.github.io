@@ -64,7 +64,7 @@ nav_order: 6
 <div class="image-container">
   <img src="../assets/img/plog_img/Me_Bytedance_Beijing_20220820.png" alt="" width="300" height="180">
   <p class="date">2022-08-20</p>
-  <p class="image-caption">As an internship of computer vision at ByteDance in Beijing.</p>
+  <p class="image-caption">As an intern of computer vision at ByteDance in Beijing.</p>
 </div>
 
 
