@@ -18,7 +18,12 @@ nav_order: 6
     .image-container img {
     border: 5px solid #e6e3e3; /* 将边框设置为5像素宽的灰色实线 */
   }
-
+  
+    .date {
+    font-size: 14px; /* 设置日期的字号为12像素 */
+    color: #fab964;
+  }
+  
     .image-caption {
     font-size: 10px; /* 设置字号为14像素 */
   }
