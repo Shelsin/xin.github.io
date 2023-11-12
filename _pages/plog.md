@@ -20,12 +20,12 @@ nav_order: 6
   }
   
     .date {
-    font-size: 14px; /* 设置日期的字号为12像素 */
+    font-size: 18px; /* 设置日期的字号为12像素 */
     color: #fab964;
   }
   
     .image-caption {
-    font-size: 10px; /* 设置字号为14像素 */
+    font-size: 12px; /* 设置字号为14像素 */
   }
   
   </style>
@@ -34,8 +34,8 @@ nav_order: 6
 
 <div class="image-container">
   <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
-  <p class="date">2023-11-12</p>
-  <p class="image-caption">The report by Prof. Chengqi Zhang from UTS: The effect of ChatGPT.</p>
+  <p class="date">2023-11-05</p>
+  <p class="image-caption">The report by Prof. Chengqi Zhang from UTS: ChatGPT's impact on AI research and societal development.</p>
 </div>
 
 <div class="image-container">
