@@ -13,8 +13,11 @@ nav_order: 6
       display: inline-block;
       width: 30%; /* 设置每列宽度 */
       margin: 10px; /* 设置列之间的间距 */
-      border: 5px solid #f7f7f7;
     }
+
+    .image-container img {
+    border: 5px solid #f7f7f7; /* 将边框设置为5像素宽的灰色实线 */
+  }
   </style>
 </head>
 <body>
