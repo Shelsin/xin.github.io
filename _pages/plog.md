@@ -45,7 +45,7 @@ nav_order: 6
 </div>
 
 <div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengqi_report_dlut_20231105.png" alt="" width="300" height="180">
+  <img src="../assets/img/plog_img/Zhang_Chengqi_report_dlut_20231105.png" alt="" width="300" height="180">
   <p class="date">2023-11-05</p>
   <p class="image-caption">The report by Prof. Chengqi Zhang from UTS: ChatGPT's impact on AI research and societal development.</p>
 </div>
