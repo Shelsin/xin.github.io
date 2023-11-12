@@ -20,25 +20,25 @@ nav_order: 6
 <body>
 
 <div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="350" height="200">
+  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="320" height="200">
   <p>2023-11-12</p>
   <p>这是图片1的注释。</p>
 </div>
 
 <div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="350" height="200">
+  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="320" height="200">
   <p>2023-11-12</p>
   <p>这是图片2的注释。</p>
 </div>
 
 <div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="350" height="200">
+  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="320" height="200">
   <p>2023-11-12</p>
   <p>这是图片3的注释。</p>
 </div>
 
 <div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="350" height="200">
+  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="320" height="200">
   <p>2023-11-12</p>
   <p>这是图片4的注释。</p>
 </div>
