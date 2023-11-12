@@ -54,4 +54,10 @@ nav_order: 6
   <p class="image-caption">The report by Prof. Chengqi Zhang from UTS: ChatGPT's impact on AI research and societal development.</p>
 </div>
 
+<div class="image-container">
+  <img src="../assets/img/plog_img/Me_ICME2023_AUS_20230712.jpg" alt="" width="300" height="180">
+  <p class="date">2023-11-05</p>
+  <p class="image-caption">Making the oral presentation at ICME 2023 in Brisbane, AUS.</p>
+</div>
+
 </body>
