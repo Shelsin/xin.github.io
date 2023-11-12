@@ -34,26 +34,26 @@ nav_order: 6
 
 <div class="image-container">
   <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
-  <p>2023-11-12</p>
-  <p>这是图片1的注释。</p>
+  <p class="date">2023-11-12</p>
+  <p class="image-caption">The report by Prof. Chengqi Zhang from UTS: The effect of ChatGPT.</p>
 </div>
 
 <div class="image-container">
   <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
-  <p>2023-11-12</p>
-  <p>这是图片2的注释。</p>
+  <p class="date">2023-11-12</p>
+  <p class="image-caption">这是图片1的注释。</p>
 </div>
 
 <div class="image-container">
   <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
-  <p>2023-11-12</p>
-  <p>这是图片3的注释。</p>
+  <p class="date">2023-11-12</p>
+  <p class="image-caption">这是图片1的注释。</p>
 </div>
 
 <div class="image-container">
   <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
-  <p>2023-11-12</p>
-  <p>这是图片4的注释。</p>
+  <p class="date">2023-11-12</p>
+  <p class="image-caption">这是图片1的注释。</p>
 </div>
 
 
