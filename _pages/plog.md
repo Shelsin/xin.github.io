@@ -12,7 +12,7 @@ nav_order: 6
       width: 30%; /* 设置每个容器宽度为30% */
       display: inline-block; /* 让容器变成行内块元素，从而可以水平排列 */
       box-sizing: border-box; /* 让边框和内边距计入宽度和高度 */
-      margin: 0; /* 清除默认的外边距 */
+      margin: 0 1.5%; /* 清除默认的外边距 */
       text-align: center; /* 水平居中对齐 */
       vertical-align: top; /* 保证容器顶部对齐 */
   }
