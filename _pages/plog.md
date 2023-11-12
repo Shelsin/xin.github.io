@@ -23,10 +23,12 @@ nav_order: 6
     .date {
     font-size: 18px; /* 设置日期的字号为12像素 */
     color: #fab964;
+    margin: 5px 0;
   }
   
     .image-caption {
     font-size: 12px; /* 设置字号为14像素 */
+    margin-bottom: 10px;
   }
   
   </style>
