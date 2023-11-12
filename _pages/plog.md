@@ -8,9 +8,15 @@ nav_order: 6
 
 <head>
   <style>
+    .image-grid {
+    display: grid; /* 使用网格布局 */
+    grid-template-columns: repeat(3, 1fr); /* 三列等宽 */
+    gap: 10px; /* 间距为10像素 */
+  }
     .image-container {
-      align-items: center;
-      display: flex;
+      display: flex; /* 使用flex布局 */
+      flex-direction: column; /* 垂直排列 */
+      align-items: center; /* 水平居中对齐 */
       width: 30%; /* 设置每列宽度 */
       margin: 10px; /* 设置列之间的间距 */
   }
@@ -32,6 +38,7 @@ nav_order: 6
 </head>
 <body>
 
+<div class="image-grid">
 <div class="image-container">
   <img src="../assets/img/plog_img/Kong_Xiangwei_discussion_dlut_20231111.jpg" alt="" width="300" height="180">
   <p class="date">2023-11-11</p>
@@ -49,6 +56,6 @@ nav_order: 6
   <p class="date">2023-11-05</p>
   <p class="image-caption">The report by Prof. Chengqi Zhang from UTS: ChatGPT's impact on AI research and societal development.</p>
 </div>
-
+</div>
 
 </body>
