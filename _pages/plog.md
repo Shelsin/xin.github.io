@@ -18,6 +18,11 @@ nav_order: 6
     .image-container img {
     border: 5px solid #e6e3e3; /* 将边框设置为5像素宽的灰色实线 */
   }
+
+    .image-caption {
+    font-size: 10px; /* 设置字号为14像素 */
+  }
+  
   </style>
 </head>
 <body>
