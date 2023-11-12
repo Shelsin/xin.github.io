@@ -16,7 +16,7 @@ nav_order: 6
     }
 
     .image-container img {
-    border: 5px solid #f7f7f7; /* 将边框设置为5像素宽的灰色实线 */
+    border: 5px solid #e6e3e3; /* 将边框设置为5像素宽的灰色实线 */
   }
   </style>
 </head>
