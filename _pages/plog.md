@@ -9,9 +9,7 @@ nav_order: 6
 <head>
   <style>
     .image-container {
-      display: flex;
-      flex-direction: column; /* 将子元素垂直排列 */
-      align-items: center; /* 在交叉轴上居中对齐 */
+      display: inline-block; /* 让容器变成行内块元素，从而可以水平排列 */
       box-sizing: border-box; /* 让边框和内边距计入宽度和高度 */
       width: 30%; /* 设置每列宽度 */
       margin: 10px; /* 设置列之间的间距 */
