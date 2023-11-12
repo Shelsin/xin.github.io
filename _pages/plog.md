@@ -19,7 +19,7 @@ nav_order: 6
 <body>
 
 <div class="image-container">
-  <img src="./assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="200" height="150">
+  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="200" height="150">
   <p>2023-11-12</p>
   <p>这是图片1的注释。</p>
 </div>
