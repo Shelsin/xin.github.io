@@ -33,27 +33,21 @@ nav_order: 6
 <body>
 
 <div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
+  <img src="../assets/img/plog_img/Kong_Xiangwei_discussion_dlut_20231111.jpg" alt="" width="300" height="180">
+  <p class="date">2023-11-11</p>
+  <p class="image-caption">The report by Prof. Xiangwei Kong from ZJU: Trusty AI.</p>
+</div>
+
+<div class="image-container">
+  <img src="../assets/img/plog_img/Me_CCS_dlut_20231111.jpg" alt="" width="300" height="180">
+  <p class="date">2023-11-11</p>
+  <p class="image-caption">Attending the 7th DUT international youth forum.</p>
+</div>
+
+<div class="image-container">
+  <img src="../assets/img/plog_img/ZhangChengqi_report_dlut_20231105.png" alt="" width="300" height="180">
   <p class="date">2023-11-05</p>
   <p class="image-caption">The report by Prof. Chengqi Zhang from UTS: ChatGPT's impact on AI research and societal development.</p>
-</div>
-
-<div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
-  <p class="date">2023-11-12</p>
-  <p class="image-caption">这是图片1的注释。</p>
-</div>
-
-<div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
-  <p class="date">2023-11-12</p>
-  <p class="image-caption">这是图片1的注释。</p>
-</div>
-
-<div class="image-container">
-  <img src="../assets/img/plog_img/ZhangChengming_dlut.png" alt="" width="300" height="180">
-  <p class="date">2023-11-12</p>
-  <p class="image-caption">这是图片1的注释。</p>
 </div>
 
 
