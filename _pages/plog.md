@@ -61,4 +61,11 @@ nav_order: 6
   <p class="image-caption">Making the oral presentation at ICME 2023 in Brisbane, AUS.</p>
 </div>
 
+<div class="image-container">
+  <img src="../assets/img/plog_img/Me_Bytedance_Beijing_20220820.png" alt="" width="300" height="180">
+  <p class="date">2022-08-20</p>
+  <p class="image-caption">As an internship of computer vision at ByteDance in Beijing.</p>
+</div>
+
+
 </body>
