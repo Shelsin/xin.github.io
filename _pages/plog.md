@@ -67,5 +67,11 @@ nav_order: 6
   <p class="image-caption">As an intern of computer vision at ByteDance in Beijing.</p>
 </div>
 
+<div class="image-container">
+  <img src="../assets/img/plog_img/Me_14th_NXP_20190827.jpg" alt="" width="300" height="180">
+  <p class="date">2019-08-27</p>
+  <p class="image-caption">Participating in the 14th NXP Cup National University Students Intelligent Car Race and taking the photo with the Prof. Qing Zhuo from THU.</p>
+</div>
+
 
 </body>
