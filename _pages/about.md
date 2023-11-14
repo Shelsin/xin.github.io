@@ -27,4 +27,3 @@ My email: shelsin.ckg [AT] gmail.com or shelsin [AT] mail.dlut.edu.cn
 
 Note：I am looking for Phd program. Please be free to reach out if there are any suitable positions. I am self-motivated and have a passion for doing research. Thank you!
 
-<p style="font-family: '楷体', 'KaiTi', cursive;">《我与地坛》书评：“我非常喜欢的是一个人十三四岁的夏天，在路上捡到一支真枪，因为年少无知，天不怕地不怕，他扣下板机，没有人死，也没有人受伤，他认为自己开了空枪。后来他三十岁或者更老，走在路上，听到背后有隐隐约约的风声，他停下来转过身去，子弹正中眉心。”</p>
