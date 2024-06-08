@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! My name is Xin Xie (Chinese name: 谢鑫). 
 
-I am a third-year (final-year) master candidate at [School of Information and Communication Engineering](https://ee.dlut.edu.cn/), [Dalian university of technology (DLUT, 985)](https://en.dlut.edu.cn/), advised by Associate Prof. [Yi Li](http://faculty.dlut.edu.cn/liyi/en/index.htm). Before that, I obtained my B.E. degree (GPA: 4.00/5.0, Rank: 7/123) in Automation from [Dalian Maritime University (DLMU, 211)](http://english.dlmu.edu.cn/).
+I am a third-year (final-year) master candidate at [School of Information and Communication Engineering](https://ee.dlut.edu.cn/), [Dalian university of technology (DLUT, 985)](https://en.dlut.edu.cn/), advised by Associate Prof. [Yi Li](http://faculty.dlut.edu.cn/liyi/en/index.htm).
 
 My research interest lies in machine learning on image generation. I currently focus on feature disentanglement on image-to-image translation and artisitc style transfer.
 
