@@ -21,7 +21,7 @@ Hello! My name is Xin Xie (Chinese name: 谢鑫).
 
 I am a first-year PhD candidate at [UNSW](https://www.unsw.edu.au/), advised by [Dong Gong](https://donggong1.github.io/). I obtained the master degree at [Dalian university of technology (DLUT, 985)](https://en.dlut.edu.cn/) in 2024, advised by Associate Prof. [Yi Li](http://faculty.dlut.edu.cn/liyi/en/index.htm).
 
-My research interest lies in machine learning on image generation. I focus on feature disentanglement on text-to-image generation, image-to-image translation and artisitc style transfer.
+My research interest lies in machine learning on image generation, including text-to-image generation, image-to-image translation and artisitc style transfer.
 
 My email: shelsin.ckg [AT] gmail.com
 
