@@ -2,7 +2,7 @@
 layout: page
 permalink: /plog/
 title: plog
-nav: true
+nav: false
 nav_order: 6
 ---
 
