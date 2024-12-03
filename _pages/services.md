@@ -13,7 +13,7 @@ nav_order: 4
 ---
 
 #### Academic Services
-- Reviewer: CVPR 2022, IJCAI 2022, MICCAI 2022, ICCV 2022, CVPR 2023, ICCV 2023, CVPR 2024
+- Reviewer: CVPR, IJCAI, MICCAI, ICCV, ECCV, NeurIPS
 
 
 ---
