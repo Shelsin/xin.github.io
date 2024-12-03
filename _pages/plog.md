@@ -6,6 +6,7 @@ nav: false
 nav_order: 6
 ---
 
+<!--  
 <head>
   <style>
     .image-container {
@@ -75,3 +76,5 @@ nav_order: 6
 
 
 </body>
+
+-->
